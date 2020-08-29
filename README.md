@@ -1,5 +1,7 @@
 ### Hi there i'm Marius NIEMET 👋
 
+<img align="center" width="90%" src="https://github.com/niemet0502/niemet0502/blob/master/a-propos.png" />
+
 
 Here are some ideas to get you started:
 
