@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about everything
 - 📫 How to reach me: 
 
-## Skils
+## Skills
 <table>
   <tbody>
     <tr valign="top">
