@@ -64,4 +64,4 @@ Here are some ideas to get you started:
 Connect with me 🤝🏽
 
 | [<img src="https://github.com/daoodaba975/daoodaba975/blob/master/assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/marius-vincent-niemet-928b48182/) | [<img src="https://github.com/daoodaba975/daoodaba975/blob/master/assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/mariusniemet05) | [<img src="https://github.com/daoodaba975/daoodaba975/blob/master/assets/Instagram.svg" alt="Instagram logo" width="32">](https://www.instagram.com/mariusniemet05/) | [<img src="https://cdn.svgporn.com/logos/facebook.svg" alt="Facebook logo" width="32">](https://www.facebook.com/daoodaba975) | [<img src="https://github.com/daoodaba975/daoodaba975/blob/master/assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:mariusniemet20@gmail.com)
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|
