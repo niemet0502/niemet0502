@@ -28,7 +28,7 @@ Here are some ideas to get you started:
         <img height="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
       </td>
       <td width="20%" align="center">
-        <span><b>Vue</b></span><br><br><br>
+        <span><b>Ruby on rails</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/rails.svg">
       </td>
     </tr>
