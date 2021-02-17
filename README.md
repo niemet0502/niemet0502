@@ -29,7 +29,7 @@ Here are some ideas to get you started:
       </td>
       <td width="20%" align="center">
         <span><b>Vue</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/ruby.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/rails.svg">
       </td>
     </tr>
     <tr valign="top" style="background-color: #fff;">
