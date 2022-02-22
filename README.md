@@ -27,6 +27,11 @@ I am an artist, my tool is my code and the product is the masterpiece. I build s
 | <img align="center" title="Bootstrap" alt="Bootstrap" width="30px" height="30px" src="https://cdn.svgporn.com/logos/bootstrap.svg"> | <img align="center" title="Tailwind" alt="Tailwind" width="30px" height="30px" src="https://cdn.svgporn.com/logos/sass.svg"> |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 
+**Tools**
+
+| <img align="center" title="VsCode" alt="VsCode" width="30px" height="30px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"> | <img align="center" title="Selenium" alt="Selenium" width="30px" height="30px" src="https://cdn.svgporn.com/logos/cypress.svg"> | <img align="center" title="Jest" alt="Jest" width="30px" height="30px" src="https://cdn.svgporn.com/logos/jest.svg"> | <img align="center" title="Vercel" alt="Vercel" width="30px" height="30px" src="https://cdn.svgporn.com/logos/netlify.svg"> |
+| -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+
 ## Skills
 
 <table>
