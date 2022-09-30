@@ -7,7 +7,11 @@
 
 ---
 
-I am an artist, my tool is my code and the product is the masterpiece. I build scalable, accessible, and responsive web applications for my employers and I build tools that enable other developers to build products in record time. I also write blog posts on Medium about React, Laravel, and more. I like algorithms and solving problems. I'm currently working to make fleet management easy for companies around the world 💡
+Hi, I’m Marius. I'm a Software Engineer and Writer living in Dakar, Senegal. I'm passionate about sharing my knowledge of web development, data structure, and algorithms through technical articles.
+
+My current tech interests are around building Web applications that scale, Developer Tools, Software Architecture, Database design, and Distributed Systems to do these, I use Javascript(React, Angular), Nodejs, Java, and Python.
+
+I enjoy reading manga, listening to good music, or running. 💡
 
 ## DEV STACK 🧰
 
