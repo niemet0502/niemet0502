@@ -11,7 +11,7 @@ My current tech interests are around building Web applications that scale, Devel
 I enjoy watching manga and formula 1, listening to good music, or running. 💡
 
 ### Technology Stacks
-- Language: Javascript, Java, Python, Ruby 
+- Language: Javascript(Typescript), Java, Python, Ruby 
 - Framework: React, Angular, Nestjs, Ruby on rails, Flask
 - Testing: Jest, SuperTest, React Testing library, Cypress
 - Messaging: Redis
@@ -22,7 +22,7 @@ I enjoy watching manga and formula 1, listening to good music, or running. 💡
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=niemet0502&theme=nord&show_icons=true&count_private=true&hide=contribs&line_height=40" />
 </a>
 <a href="https://github.com/niemet0502">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niemet0502&theme=nord&langs_count=8&hide=css,blade,html" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niemet0502&theme=nord&langs_count=5&hide=css,blade,html,scss,shell" />
 </a>
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=niemet0502&theme=black-ice&hide_border=true)
