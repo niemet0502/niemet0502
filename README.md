@@ -22,7 +22,7 @@ I enjoy watching manga and formula 1, listening to good music, or running. 💡
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=niemet0502&theme=nord&show_icons=true&count_private=true&hide=contribs&line_height=40" />
 </a>
 <a href="https://github.com/niemet0502">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niemet0502&theme=nord&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niemet0502&theme=nord&langs_count=8&hide=css,blade,html" />
 </a>
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=niemet0502&theme=black-ice&hide_border=true)
