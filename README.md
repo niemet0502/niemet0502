@@ -11,8 +11,8 @@ My current tech interests are around building Web applications that scale, Devel
 I enjoy watching manga and formula 1, listening to good music, or running. 💡
 
 ### Technology Stacks
-- Language: Javascript(Typescript), Java, Python, Ruby 
-- Framework: React, Angular, Nestjs, Ruby on rails, Flask
+- Language: Javascript(Typescript) 
+- Framework: React, Nestjs,
 - Testing: Jest, SuperTest, React Testing library, Cypress
 - Messaging: Redis
 - DBMS: MySQL, PostgreSQL, MongoDB
