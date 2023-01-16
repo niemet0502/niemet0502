@@ -18,12 +18,6 @@ I enjoy watching manga and formula 1, listening to good music, or running. 💡
 - DBMS: MySQL, PostgreSQL, MongoDB
 - Infrastructure: Docker
 
-<a href="https://github.com/niemet0502">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=niemet0502&theme=nord&show_icons=true&count_private=true&hide=contribs&line_height=40" />
-</a>
-<a href="https://github.com/niemet0502">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niemet0502&theme=nord&langs_count=4&hide=css,blade,html,scss,shell,PHP,C#" />
-</a>
 <br>
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=niemet0502&theme=nord)
