@@ -19,7 +19,3 @@ I enjoy watching manga and formula 1, listening to good music, or running. 💡
 - Infrastructure: Docker
 
 <br>
-
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=niemet0502&theme=nord)
-
-![Profile views](https://gpvc.arturio.dev/niemet0502)
