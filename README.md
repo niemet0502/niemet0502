@@ -2,20 +2,18 @@
 
 ---
 
-### Who ?
+### Who?
 
-Hi, I’m Marius. I'm a Software Engineer and Writer living in Dakar, Senegal. I'm passionate about sharing my knowledge of web development, data structure, and algorithms through technical articles.
+Hi, I’m Marius a Congolese Software Engineer and Writer living in Dakar, Senegal. 
 
-My current tech interests are around building Web applications that scale, Developer Tools, Software Architecture, Database design, and Distributed Systems to do these, I use Javascript(React, Angular), Nodejs, Java, and Python.
+I write about what I've learned in my day-to-day work, experiences, or something that interests me to improve my knowledge base. Daily I build products for my own needs or my employer and I like and enjoy it, I can work on the entire stack from the database design, to the frontend, backend and take end-to-end ownership across all areas of the software development lifecycle, including: designing, building, releasing, and monitoring.
 
-I enjoy watching manga and formula 1, listening to good music, or running. 💡
+I enjoy watching manga and Formula 1, listening to good music, or running. 💡
 
 ### Technology Stacks
-- Language: Javascript(Typescript) 
-- Framework: React, Nestjs,
-- Testing: Jest, SuperTest, React Testing library, Cypress
-- Messaging: Redis
-- DBMS: MySQL, PostgreSQL, MongoDB
-- Infrastructure: Docker
+- Language: Javascript(Typescript), Java, Go
+- Messaging: Redis Pub/Sub
+- DBMS: MySQL, PostgreSQL
+- Infrastructure: Docker, Kubernetes 
 
-<br>
+<be>
