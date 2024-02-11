@@ -14,6 +14,7 @@ I enjoy watching manga and Formula 1, listening to good music, or running. 💡
 - Languages: Javascript(Typescript), Java, Go
 - Messaging: Redis Pub/Sub
 - DBMS: MySQL, PostgreSQL
-- Infrastructure: Docker, Kubernetes 
+- Infrastructure: Docker, Kubernetes
+- Cloud provider: AWS
 - Observability: Grafana stack (Loki, Tempo, Grafana, Promtail), OpenTelemetry, Prometheus
 <be>
