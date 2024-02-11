@@ -15,5 +15,5 @@ I enjoy watching manga and Formula 1, listening to good music, or running. 💡
 - Messaging: Redis Pub/Sub
 - DBMS: MySQL, PostgreSQL
 - Infrastructure: Docker, Kubernetes 
-
+- Observability: Grafana stack (Loki, Tempo, Grafana, Promtail), OpenTelemetry, Prometheus
 <be>
